@@ -1,0 +1,19 @@
+# ninja log v5
+22	1841	7908026130317003	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	99d17e0d0622e1d1
+106	1837	7908026130266560	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	49e4cb10ff51dbea
+36	1871	7908026130618419	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8190984e79f88df5
+126	2087	7908026132824138	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	444dd3cdb2b3dc46
+92	1894	7908026130884420	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b310e69872a39a5f
+50	1980	7908026131753571	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a95a6246cf8c4433
+2485	2647	7908026138406748	C:/Users/divij/Documents/UnityProjects/POCs/RoomDesignXR/RoomDesignXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2w253a54/obj/arm64-v8a/libgame.so	8f6344fe29bb80db
+77	2315	7908026135088182	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	71c6a0be0137961d
+8	2485	7908026136758888	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	72eb12e43556b560
+18	1040	7909446305270585	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	99d17e0d0622e1d1
+25	1069	7909446305521424	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8190984e79f88df5
+102	1074	7909446305605094	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b310e69872a39a5f
+92	1096	7909446305839380	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	49e4cb10ff51dbea
+32	1122	7909446306081767	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a95a6246cf8c4433
+111	1189	7909446306766685	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	444dd3cdb2b3dc46
+84	1303	7909446307904919	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	71c6a0be0137961d
+11	1367	7909446308509843	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	72eb12e43556b560
+1367	1473	7909446309581696	C:/Users/divij/Documents/UnityProjects/POCs/RoomDesignXR/RoomDesignXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2w253a54/obj/arm64-v8a/libgame.so	8f6344fe29bb80db
