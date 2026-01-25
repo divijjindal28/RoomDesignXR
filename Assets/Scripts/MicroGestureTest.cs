@@ -131,11 +131,11 @@ public class MicroGestureTest : MonoBehaviour
         {
             case OVRHand.MicrogestureType.SwipeLeft:
                 Debug.Log("MicroGestureTest : SWIPE LEFT");
-                gettingAndUpdatingMRObject.ChangeMaterial(-1);
+                gettingAndUpdatingMRObject.ChangeAsset(-1);
                 break;
             case OVRHand.MicrogestureType.SwipeRight:
                 Debug.Log("MicroGestureTest : SWIPE RIGHT");
-                gettingAndUpdatingMRObject.ChangeMaterial(1);
+                gettingAndUpdatingMRObject.ChangeAsset(1);
                 break;
             case OVRHand.MicrogestureType.SwipeForward:
                 break;
