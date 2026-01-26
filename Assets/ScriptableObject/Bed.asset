@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0115acd16ebc410488688f8fb449a48d, type: 3}
   m_Name: Bed
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 8246175758043046927, guid: 4740c16bc70be8a468df7f9b9ada826b, type: 3}
+  textures:
+  - {fileID: 2800000, guid: 1019ed2ad8814ec43b0d29aacc1c3d7b, type: 3}
+  - {fileID: 2800000, guid: 24bc9a43842d4e84984eb5a31ee5535e, type: 3}
+  - {fileID: 2800000, guid: 4aeff240d8f25be40b285b3bcfccada5, type: 3}
+  - {fileID: 2800000, guid: 685dc7bcf16eddb409022949bff0e538, type: 3}
