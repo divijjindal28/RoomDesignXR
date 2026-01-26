@@ -158,6 +158,7 @@ public class GettingAndUpdatingMRObject : MonoBehaviour
 
         if (!state)
         {
+            MenuParent.SetActive(true);
             if (hit.collider.gameObject != null)
             {
                 readyTochangeMaterial = true;
@@ -168,6 +169,7 @@ public class GettingAndUpdatingMRObject : MonoBehaviour
 
         }
         else {
+            MenuParent.SetActive(false);
             readyTochangeMaterial = false;
         }
 

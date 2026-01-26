@@ -14,7 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 4350422998566360405, guid: c84793d3ee20737489a34ac5efd65253, type: 3}
   textures:
+  - {fileID: 2800000, guid: f11a1f25c5699b84480c5ceae8a91245, type: 3}
+  - {fileID: 2800000, guid: 051e23a4752fd3249b65c377c972393b, type: 3}
   - {fileID: 2800000, guid: 1019ed2ad8814ec43b0d29aacc1c3d7b, type: 3}
-  - {fileID: 2800000, guid: 595cde2ba2957af4aa4547ef5b4eadb0, type: 3}
-  - {fileID: 2800000, guid: f9c373a08e6c9eb4b94b758e8656e525, type: 3}
-  - {fileID: 2800000, guid: 53456ceb1658ab44b880d48aa3f89190, type: 3}
