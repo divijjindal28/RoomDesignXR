@@ -12,6 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/DEPTH_API.unity
     guid: 4374b3ae9e1f72e4ebad60f1e9517c64
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bb2ccf200d5b7cb4ba423ed2fcdad8c2, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e8af5616a6527cb4c9a0d65ed55151a0, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8df111686ab58124f8e763be80bf4359, type: 2}
